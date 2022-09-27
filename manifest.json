@@ -1,0 +1,11 @@
+{
+  "name": "TestMinMap",
+  "id": "widget-id-tTWQos7KXw",
+  "api": "1.0.0",
+  "editorType": ["figma","figjam"],
+  "permissions": ["activeusers", "currentuser"],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "widgetApi": "1.0.0"
+}
